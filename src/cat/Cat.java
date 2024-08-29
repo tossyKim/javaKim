@@ -10,7 +10,7 @@ public class Cat {
     }
 
     void meow(){
-        System.out.println("야옹2");
+        System.out.println("야옹5");
     }
 
     public void setName(String name){
